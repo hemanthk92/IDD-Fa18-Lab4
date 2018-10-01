@@ -24,9 +24,8 @@ The singal line should be connected to Pin 9 on the arduino since that is where 
 We can change the delay paramter so the Servo motor moves faster to its next position. We change the pos paramter in the code to control the amount of rotation.
 
 ## Part C. Integrating input and output
-
-**Include a photo/movie of your raw circuit in action.**
-
+**Include a photo/movie of your raw circuit in action.** <br>
+[link to video](https://www.youtube.com/watch?v=pb_hEzlRmtI) <br>
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
