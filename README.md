@@ -22,7 +22,8 @@ On the servo motor the ground corresponds to the purple color. The red correspon
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 The singal line should be connected to Pin 9 on the arduino since that is where we are sending the PWM.
-**b. What aspects of the Servo code control angle or speed?**
+<br>
+**b. What aspects of the Servo code control angle or speed?** <br>
 We can change the delay paramter so the Servo motor moves faster to its next position. We change the pos paramter in the code to control the amount of rotation.
 
 ## Part C. Integrating input and output
