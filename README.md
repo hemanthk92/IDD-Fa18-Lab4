@@ -30,8 +30,8 @@ We can change the delay paramter so the Servo motor moves faster to its next pos
 **Include a photo/movie of your raw circuit in action.** <br>
 [link to video](https://www.youtube.com/watch?v=pb_hEzlRmtI) <br>
 ## Part D. Paper puppet
-**a. Make a video of your proto puppet.**
-[link to video](https://youtu.be/EpvP7YRvW3g)
+**a. Make a video of your proto puppet.** <br>
+[link to video](https://youtu.be/EpvP7YRvW3g) <br>
 
 ## Part E. Make it your own
 
