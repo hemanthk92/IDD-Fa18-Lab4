@@ -35,5 +35,5 @@ We can change the delay paramter so the Servo motor moves faster to its next pos
 
 ## Part E. Make it your own
 
-**a. Make a video of your final design.**
+**a. Make a video of your final design.** <br>
  [link to video](https://www.youtube.com/watch?v=iw-Q9O9aT9M)
